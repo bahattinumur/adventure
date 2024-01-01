@@ -1,12 +1,14 @@
 
-<h1> Adventure </h1>
+<h1>ADVENTURE</h1>
 
-This is the first project I made a few weeks ago.
+This is a simple webpage created by someone who has embarked on a new career adventure and wants to keep track of their own salaries.
 
-<h2> A Website Example </h2>
+<h2> Software Languages </h2>
 
-It is a example of a website using by html and css.
+- HTML
 
-<h2> Screen GIF </h2>
+- CSS
+
+<h2> Screen Gif </h2>
 
 ![](screen.gif)
